@@ -9,12 +9,12 @@ last_updated: 2026-06-03
 ---
 
 
-## Use the new robot icon for chatbot avatars
+## Use the robot icon for chatbot avatars
 
 All chatbots should use the robot icon as their avatar or profile picture. Other AI experiences should not use a robot icon.
 
 - **Why use a robot icon for chatbots?** It creates a strong connection with the expectation of a chat experience, creates a cohesive experience across Red Hat chatbots, and avoids diluting brand personality through overuse.
-- **Why this specific robot icon?** The team revised the original robot design to be more expressive and better represent the more advanced AI features based on a Qualtrics survey.
+- **Why this specific robot icon?** The original robot design was revised to be more expressive and better represent advanced AI features, based on a Qualtrics survey.
 
 <figure data-type="example">
 
@@ -66,8 +66,8 @@ Using a robot to represent AI chatbots opens up new possibilities for using vari
 The robot icon should be consistent, but can be styled as needed to provide an engaging experience in each chatbot application.
 
 - Use the UI size version of the happy chatbot for avatars and launch buttons.
-- The sizes of the avatar variants vary from small, medium, and large.
-- If the `pf-chatbot` is using compact sizing then the avatar will adopt the compact size variant.
+- Avatar variants are available in small, medium, and large.
+- If the `pf-chatbot` uses compact sizing, the avatar uses the compact size variant.
 
 <figure data-type="example">
 
@@ -92,13 +92,13 @@ When clicking a button results in opening a conversation with a chatbot, use the
 
 ### Primary and secondary examples
 
-- We recommend using the UI Icon sizing for the launch CTA and the avatar.
-- Launch button variants are using PatternFly tokens; choose the variant that accommodates your product needs best, considering the page background color versus the icon button color.
-- The visual execution of the 'Launch' CTA is context-dependent and should follow local product area patterns.
+- Use the UI icon size for the launch button and the avatar.
+- Launch button variants use PatternFly tokens; choose the variant that best accommodates your product needs, considering the page background color versus the icon button color.
+- The launch button's appearance depends on context and should follow local product area patterns.
 
 ### Contextual examples
 
-- We recommend using the UI Icon sizing for the launch CTA and the avatar.
+- Use the UI icon size for the launch button and the avatar.
 - Contextual examples show possible launch button styling using masthead items, icon buttons, and menu toggles.
 - Choose the variant and launch location that best suits your product UI.
 

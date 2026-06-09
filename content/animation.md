@@ -19,11 +19,11 @@ Use the premade sparkle animation to add interest to AI indicators, including ic
 - **Don't** create new animations.
 
 > [!NOTE]
-> To request a new animation, chat us on Slack at #help-brand.
+> To request a new animation, reach out in #help-brand on Slack.
 
 ## Animation do's and don'ts
 
 - **Do**: Make sure that the AI sparkle is visible at the beginning and end of the animation loop, including when the animation is at rest.
-- **Do**: The animation should stay within the same bounding box as the static icon, so that padding does not need to be adjusted.
+- **Do**: Keep the animation within the same bounding box as the static icon so padding doesn't need to be adjusted.
 - **Don't**: Allow animations to play before the user interacts with them, or allow animations to loop endlessly.
 - **Don't**: Use animations that are exaggerated or over-the-top.
