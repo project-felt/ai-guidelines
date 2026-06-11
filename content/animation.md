@@ -6,7 +6,7 @@ subcategory: guidelines
 tags: [ai, animation, sparkle]
 order: 7
 status: draft
-last_updated: 2026-05-29
+last_updated: 2026-06-08
 ---
 
 
@@ -23,7 +23,18 @@ Use the premade sparkle animation to add interest to AI indicators, including ic
 
 ## Animation do's and don'ts
 
-- **Do**: Make sure that the AI sparkle is visible at the beginning and end of the animation loop, including when the animation is at rest.
-- **Do**: Keep the animation within the same bounding box as the static icon so padding doesn't need to be adjusted.
-- **Don't**: Allow animations to play before the user interacts with them, or allow animations to loop endlessly.
-- **Don't**: Use animations that are exaggerated or over-the-top.
+<figure data-type="do">
+  <figcaption>Make sure that the AI sparkle is visible at the beginning and end of the animation loop, including when the animation is at rest.</figcaption>
+</figure>
+
+<figure data-type="do">
+  <figcaption>Keep the animation within the same bounding box as the static icon so padding doesn't need to be adjusted.</figcaption>
+</figure>
+
+<figure data-type="dont">
+  <figcaption>Don't allow animations to play before the user interacts with them, or allow animations to loop endlessly.</figcaption>
+</figure>
+
+<figure data-type="dont">
+  <figcaption>Don't use animations that are exaggerated or over-the-top.</figcaption>
+</figure>

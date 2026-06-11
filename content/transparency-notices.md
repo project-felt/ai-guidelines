@@ -5,7 +5,7 @@ category: ai
 subcategory: guidelines
 tags: [ai, transparency, disclosure, notices]
 order: 3
-last_updated: 2026-06-03
+last_updated: 2026-06-09
 ---
 
 
@@ -27,19 +27,17 @@ These components are used to notify users when they are interacting with AI-rela
 - [Refer to the guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) for more details on notification messages.
 
 <figure data-type="example">
-
-![Inline alert warning component with "[Feature name] uses AI. Check for mistakes. By using this feature, your [type of info] information will be used to create an AI-generated summary of your [type of info]..." guidance](../assets/images/warning-inline-alert-ai-related-features.png "example")
-![Inline alert info component with "Important. This feature uses AI technology. Do not include any personal information or other sensitive information in your input..." guidance](../assets/images/info-inline-alert-ai-related-features.png "example")
-![Toast alert warning component with "[Feature name] uses AI. Check for mistakes. By using this feature, your [type of info] information will be used to create an AI-generated summary of your [type of info]..." guidance](../assets/images/warning-modal-alert-ai-related-features.png "example")
-![Toast alert info component with "Important. This feature uses AI technology. Do not include any personal information or other sensitive information in your input..." guidance](../assets/images/warning-modal-alert-ai-related-features.png "example")
-
-<figcaption>
+  <img src="../assets/images/warning-inline-alert-ai-related-features.png" alt="Inline alert warning component with &quot;[Feature name] uses AI. Check for mistakes. By using this feature, your [type of info] information will be used to create an AI-generated summary of your [type of info]...&quot; guidance" title="example" width="613">
+  <img src="../assets/images/info-inline-alert-ai-related-features.png" alt="Inline alert info component with &quot;Important. This feature uses AI technology. Do not include any personal information or other sensitive information in your input...&quot; guidance" title="example" width="609">
+  <img src="../assets/images/warning-modal-alert-ai-related-features.png" alt="Toast alert warning component with &quot;[Feature name] uses AI. Check for mistakes. By using this feature, your [type of info] information will be used to create an AI-generated summary of your [type of info]...&quot; guidance" title="example" width="389">
+  <img src="../assets/images/info-modal-alert-ai-related-features.png" alt="Toast alert info component with &quot;Important. This feature uses AI technology. Do not include any personal information or other sensitive information in your input...&quot; guidance" title="example" width="389">
+  <figcaption>
 
 - Always review AI-generated content prior to use.
 - AI-assisted search is for Red Hat product or support questions. Do not enter personal or sensitive information.
 - Do not include any personal information or other sensitive information in your feedback. Feedback may be used to improve Red Hat's products or services.
 
-</figcaption>
+  </figcaption>
 </figure>
 
 ## Transparency notices for AI-assisted features
@@ -49,12 +47,10 @@ Some AI-assisted features may warrant more than an icon and text label. In these
 - You can tailor this text to the content.
 - For external-facing AI features, [refer to this guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) and work with your AIA Reviewers during the AIA review process.
 
-<figure data-type="example">
-
-![Inline alert info component shown above an AI case summary within a security application, with "Important. This feature uses AI technology..." guidance](../assets/images/warning-alert-ai-generated-content.png "example")
-![Inline alert warning component shown above an AI case summary within a security application, with "Compliance case uses AI. Check for mistakes..." guidance](../assets/images/info-alert-ai-generated-content.png "example")
-
-<figcaption>This notice is shown with the AI-generated content or AI-related tools.</figcaption>
+<figure data-type="example landscape">
+  <img src="../assets/images/warning-alert-ai-generated-content.png" alt="Inline alert info component shown above an AI case summary within a security application, with &quot;Important. This feature uses AI technology...&quot; guidance" title="example" width="1008">
+  <img src="../assets/images/info-alert-ai-generated-content.png" alt="Inline alert warning component shown above an AI case summary within a security application, with &quot;Compliance case uses AI. Check for mistakes...&quot; guidance" title="example" width="1009">
+  <figcaption>This notice is shown with the AI-generated content or AI-related tools.</figcaption>
 </figure>
 
 ## Transparency notices for virtual assistants
@@ -64,16 +60,14 @@ Some AI-assisted features may warrant more than an icon and text label. In these
 - For external-facing AI features, [refer to this guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features).
 
 <figure data-type="example">
-
-![Example: Ask Red Hat virtual assistant with the AI icon in the header bar as a visual indicator, and the AI tag/label is a verbal indicator](../assets/images/virtual-assistant-ai-icon-label.png "example")
-![Example: Ask Red Hat virtual assistant with an alert info component giving notice before a user interacts with the virtual assistant and before any content is generated. Persistent notice associated with input/output box](../assets/images/virtual-assistant-info-message.png "example")
-
-<figcaption>
+  <img src="../assets/images/virtual-assistant-ai-icon-label.png" alt="Example: Ask Red Hat virtual assistant with the AI icon in the header bar as a visual indicator, and the AI tag/label is a verbal indicator" title="example" width="507">
+  <img src="../assets/images/virtual-assistant-info-message.png" alt="Example: Ask Red Hat virtual assistant with an alert info component giving notice before a user interacts with the virtual assistant and before any content is generated. Persistent notice associated with input/output box" title="example" width="572">
+  <figcaption>
 
 - The AI icon serves as a visual indicator, and the "AI" tag/label is a verbal indicator.
 - This notice is shown before a user interacts with the virtual assistant and before any content is generated, with a persistent notice associated with the input/output box.
 
-</figcaption>
+  </figcaption>
 </figure>
 
 ## Indicating AI-generated content
@@ -81,10 +75,8 @@ Some AI-assisted features may warrant more than an icon and text label. In these
 AI-generated content, like a search results summary, must include a label and icon showing users the content was AI-generated.
 
 <figure data-type="do">
-
-![Example: AI-assisted results expandable section with the title indicating the use of AI both visually, with the sparkle icon, and verbally, by including "AI-assisted" in the results heading.](../assets/images/search-results-label-sparkle-icon.png "do")
-
-<figcaption>The title indicates the use of AI both visually, with the sparkle icon, and verbally, by including "AI-assisted" in the results heading.</figcaption>
+  <img src="../assets/images/search-results-label-sparkle-icon.png" alt="Example: AI-assisted results expandable section with the title indicating the use of AI both visually, with the sparkle icon, and verbally, by including &quot;AI-assisted&quot; in the results heading." title="do" width="871">
+  <figcaption>The title indicates the use of AI both visually, with the sparkle icon, and verbally, by including "AI-assisted" in the results heading.</figcaption>
 </figure>
 
 ## Indicating AI-generated images
@@ -95,13 +87,11 @@ Don't label AI-generated images or ads individually.
 - Instead, Red Hat is working on a site-wide notice that will outline when users will (and won't) encounter AI-generated images on Red Hat web properties.
 
 <figure data-type="example">
-
-![Example: Desktop view of redhat.com showing an AI-generated laptop image, and Red Hat Developer ad with an AI-generated image of the "Repo" character with the birthday cake.](../assets/images/indicating-ai-generated-images.png "example")
-
-<figcaption>
+  <img src="../assets/images/indicating-ai-generated-images.png" alt="Example: Desktop view of redhat.com showing an AI-generated laptop image, and Red Hat Developer ad with an AI-generated image of the &quot;Repo&quot; character with the birthday cake." title="example" width="1039">
+  <figcaption>
 
 - The laptop in this collage was generated with an Adobe Firefly custom model, but the rest of the elements and the page content are not genAI.
 - The "Repo" character and the birthday cake in this ad were both generated using AI tools, but the logos, copy, and composition were created and composed by humans.
 
-</figcaption>
+  </figcaption>
 </figure>
