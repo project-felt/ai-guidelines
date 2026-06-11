@@ -86,12 +86,12 @@ Research shows users need both text and an icon for clarity.
 
 - **Where to use them**: As a button or on a button.
 - **What they indicate**: These icons indicate to the user that when they click on them, the next action will use or be enabled by AI.
-  - [AI edit UI icon](../assets/images/rh-ui-icon-ai-edit.svg) `rh-ui-icon-ai-edit`: When clicked, users edit content with help from AI.
-  - [AI troubleshoot UI icon](../assets/images/rh-ui-icon-ai-troubleshoot.svg) `rh-ui-icon-ai-troubleshoot`: When clicked, users receive help or suggestions from AI to troubleshoot.
-  - [AI filter UI icon](../assets/images/rh-ui-icon-ai-filter.svg) `rh-ui-icon-ai-filter`: When clicked, users filter data with help from AI.
-  - [AI search UI icon](../assets/images/rh-ui-icon-ai-search.svg) `rh-ui-icon-ai-search`: When clicked, users search with help from AI.
-  - [AI create UI icon](../assets/images/rh-ui-icon-ai-create.svg) `rh-ui-icon-ai-create`: When clicked, users create content with help from AI.
-  - [AI enhance UI icon](../assets/images/rh-ui-icon-ai-enhance.svg) `rh-ui-icon-ai-enhance`: When clicked, users enhance content with help from AI.
+  - [AI edit UI icon](../assets/images/rh-ui-icon-ai-edit.svg) `rh-ui-icon-ai-edit`: When clicked, you can edit content with help from AI.
+  - [AI troubleshoot UI icon](../assets/images/rh-ui-icon-ai-troubleshoot.svg) `rh-ui-icon-ai-troubleshoot`: When clicked, you receive help or suggestions from AI to troubleshoot.
+  - [AI filter UI icon](../assets/images/rh-ui-icon-ai-filter.svg) `rh-ui-icon-ai-filter`: When clicked, you can filter data with help from AI.
+  - [AI search UI icon](../assets/images/rh-ui-icon-ai-search.svg) `rh-ui-icon-ai-search`: When clicked, you can search with help from AI.
+  - [AI create UI icon](../assets/images/rh-ui-icon-ai-create.svg) `rh-ui-icon-ai-create`: When clicked, you can create content with help from AI.
+  - [AI enhance UI icon](../assets/images/rh-ui-icon-ai-enhance.svg) `rh-ui-icon-ai-enhance`: When clicked, you can enhance content with help from AI.
   - [AI experience UI icon](../assets/images/rh-ui-icon-ai-experience.svg) `rh-ui-icon-ai-experience`: Use this one when none of these other icons fit.
 - **Example**: A button that will cause a pop-up to appear with AI-generated troubleshooting assistance.
 - **Don't** create new AI icons.

@@ -14,7 +14,7 @@ last_updated: 2026-06-03
 All chatbots should use the robot icon as their avatar or profile picture. Other AI experiences should not use a robot icon.
 
 - **Why use a robot icon for chatbots?** It creates a strong connection with the expectation of a chat experience, creates a cohesive experience across Red Hat chatbots, and avoids diluting brand personality through overuse.
-- **Why this specific robot icon?** The original robot design was revised to be more expressive and better represent advanced AI features, based on a Qualtrics survey.
+- **Why this specific robot icon?** We revised the original robot design to be more expressive and better represent advanced AI features, based on a Qualtrics survey.
 
 <figure data-type="example">
 
