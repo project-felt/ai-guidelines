@@ -6,7 +6,7 @@ subcategory: guidelines
 tags: [ai, animation, sparkle]
 order: 7
 status: draft
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 

@@ -5,7 +5,7 @@ category: ai
 subcategory: guidelines
 tags: [ai, chatbot, avatar, robot]
 order: 6
-last_updated: 2026-06-08
+last_updated: 2026-06-11
 ---
 
 

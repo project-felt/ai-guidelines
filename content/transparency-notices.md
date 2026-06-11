@@ -5,7 +5,7 @@ category: ai
 subcategory: guidelines
 tags: [ai, transparency, disclosure, notices]
 order: 3
-last_updated: 2026-06-09
+last_updated: 2026-06-11
 ---
 
 
