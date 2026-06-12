@@ -11,7 +11,7 @@ last_updated: 2026-06-11
 
 ## Visual representations of AI
 
-AI is widely used across Red Hat products, and there are a variety of ways to represent it in different parts of the Red Hat brand. Nearly every medium we use includes one or more ways to represent AI and related concepts.
+AI is widely used across Red Hat products and digital experiences, and there are a variety of ways to represent it in different parts of the Red Hat brand. Nearly every medium we use includes one or more ways to represent AI and related concepts.
 
 - Use the appropriate visual for your use case and application.
 - Consider the size of the space, the user's action, and their point in the customer journey.
