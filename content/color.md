@@ -5,7 +5,14 @@ category: ai
 subcategory: guidelines
 tags: [ai, color, accessibility]
 order: 5
-last_updated: 2026-06-18
+revision: 1.1
+changelog:
+  - rev: 1.1
+    date: 2026-06-08
+    summary: Rewrote figcaptions, restructured do/dont into figure elements
+  - rev: 1.0
+    date: 2026-05-29
+    summary: Initial transcription from AI guidelines deck
 ---
 
 

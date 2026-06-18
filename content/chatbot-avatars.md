@@ -5,7 +5,17 @@ category: ai
 subcategory: guidelines
 tags: [ai, chatbot, avatar, robot]
 order: 6
-last_updated: 2026-06-18
+revision: 1.2
+changelog:
+  - rev: 1.2
+    date: 2026-06-18
+    summary: Split multi-image figures into individual figures with per-figure captions
+  - rev: 1.1
+    date: 2026-06-08
+    summary: Restructured figures with captions, added landscape class to launch button figures
+  - rev: 1.0
+    date: 2026-05-29
+    summary: Initial transcription from AI guidelines deck
 ---
 
 

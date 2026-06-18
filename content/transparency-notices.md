@@ -5,7 +5,17 @@ category: ai
 subcategory: guidelines
 tags: [ai, transparency, disclosure, notices]
 order: 3
-last_updated: 2026-06-18
+revision: 1.2
+changelog:
+  - rev: 1.2
+    date: 2026-06-18
+    summary: Added inline/toast alert subheadings, split multi-image figures with unique captions
+  - rev: 1.1
+    date: 2026-06-08
+    summary: Rewrote shared figcaption list into per-figure descriptions
+  - rev: 1.0
+    date: 2026-05-29
+    summary: Initial transcription from AI guidelines deck
 ---
 
 

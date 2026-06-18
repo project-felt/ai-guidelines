@@ -5,7 +5,17 @@ category: ai
 subcategory: guidelines
 tags: [ai, icons, sparkle, visual]
 order: 4
-last_updated: 2026-06-18
+revision: 1.2
+changelog:
+  - rev: 1.2
+    date: 2026-06-18
+    summary: Split multi-image figures into individual figures with per-figure captions
+  - rev: 1.1
+    date: 2026-06-08
+    summary: Restructured do/dont and icon sections into figure elements with captions
+  - rev: 1.0
+    date: 2026-05-29
+    summary: Initial transcription from AI guidelines deck
 ---
 
 

@@ -6,7 +6,14 @@ subcategory: guidelines
 tags: [ai, animation, sparkle]
 order: 7
 status: draft
-last_updated: 2026-06-18
+revision: 1.1
+changelog:
+  - rev: 1.1
+    date: 2026-06-08
+    summary: Converted do/dont bullet list to figure elements with captions
+  - rev: 1.0
+    date: 2026-05-29
+    summary: Initial transcription from AI guidelines deck
 ---
 
 

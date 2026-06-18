@@ -1,21 +1,26 @@
 #!/bin/bash
-# Updates last_updated frontmatter in any staged content/*.md files.
+# Checks that staged content/*.md files have an updated revision and changelog entry.
 
-today=$(date +%Y-%m-%d)
-changed=0
+error=0
 
 while IFS= read -r file; do
   if [[ "$file" =~ ^content/.*\.md$ ]] && [[ -f "$file" ]]; then
-    if grep -q "^last_updated:" "$file"; then
-      sed -i '' "s/^last_updated:.*/last_updated: $today/" "$file"
-    else
-      sed -i '' "s/^---$/---/" "$file"
-      # Insert last_updated before the closing --- of frontmatter
-      awk '/^---/{n++} n==2 && /^---/{print "last_updated: '"$today"'"} {print}' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+    # Check if the revision field was changed in this commit
+    revision_diff=$(git diff --cached -U0 "$file" | grep -E '^\+revision:')
+    if [ -z "$revision_diff" ]; then
+      current_rev=$(grep '^revision:' "$file" | head -1 | awk '{print $2}')
+      echo "⚠  $file has changes but revision was not updated."
+      echo "   Current revision: ${current_rev:-unknown}"
+      echo "   Please bump the revision and add a changelog entry before committing."
+      echo ""
+      error=1
     fi
-    git add "$file"
-    changed=1
   fi
 done < <(git diff --cached --name-only)
+
+if [ $error -ne 0 ]; then
+  echo "Commit aborted. Update revision and changelog in the files listed above."
+  exit 1
+fi
 
 exit 0
