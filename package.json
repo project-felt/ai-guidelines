@@ -14,6 +14,7 @@
   },
   "files": [
     "content",
+    "assets",
     "README.md",
     "LICENSE"
   ],
