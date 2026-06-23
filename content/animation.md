@@ -6,7 +6,7 @@ subcategory: guidelines
 tags: [ai, animation, sparkle]
 order: 7
 status: draft
-last_updated: 2026-06-18
+last_updated: 2026-06-23
 ---
 
 
@@ -19,7 +19,7 @@ Use the premade sparkle animation to add interest to AI indicators, including ic
 - **Don't** create new animations.
 
 > [!NOTE]
-> To request a new animation, chat us on Slack at #help-brand.
+> To request a new animation, reach out in #help-brand on Slack.
 
 ## Animation do's and don'ts
 
@@ -31,7 +31,7 @@ Use the premade sparkle animation to add interest to AI indicators, including ic
   </li>
   <li>
     <figure data-type="do">
-      <figcaption>The animation should stay within the same bounding box as the static icon, so that padding does not need to be adjusted.</figcaption>
+      <figcaption>Keep the animation within the same bounding box as the static icon so padding doesn't need to be adjusted.</figcaption>
     </figure>
   </li>
   <li>

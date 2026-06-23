@@ -5,7 +5,7 @@ category: ai
 subcategory: guidelines
 tags: [ai, color, accessibility]
 order: 5
-last_updated: 2026-06-18
+last_updated: 2026-06-23
 ---
 
 
@@ -19,11 +19,11 @@ AI features use the same colors as other interface elements.
 Do not use gradients and color coding for AI features.
 
 - This avoids conflicting with existing status colors and color associations.
-- It avoids the additional accessibility and coding challenges associated with gradients.
-- It avoids the potential for confusion between hybrid style marketing materials and interface functionality.
+- This avoids the additional accessibility and coding challenges associated with gradients.
+- This prevents confusion between hybrid style marketing materials and interface functionality.
 
 > [!TIP]
-> Learn more about how Red Hat uses color in the [Red Hat brand](http://brand.redhat.com), the [Red Hat Design System](http://ux.redhat.com), and [PatternFly](http://patternfly.org).
+> Learn more about how Red Hat uses color in the [Red Hat brand](https://brand.redhat.com), the [Red Hat Design System](https://ux.redhat.com), and [PatternFly](https://patternfly.org).
 
 ## Color associations and statuses
 

@@ -5,13 +5,13 @@ category: ai
 subcategory: guidelines
 tags: [ai, transparency, disclosure, notices]
 order: 3
-last_updated: 2026-06-18
+last_updated: 2026-06-23
 ---
 
 
 ## It should always be clear when and how AI is being used
 
-[User research](https://url.corp.redhat.com/ai-sentiment-survey) has shown that users want to clearly see when an action that they will take involves AI. Err on the side of over-communicating about AI features.
+[User research](https://url.corp.redhat.com/ai-sentiment-survey) has shown that users want to clearly see when an action that they will take involves AI. When in doubt, communicate more about AI features, not less.
 
 - Don't rely on just one form of indicator for AI-enabled experiences.
 - At minimum use one visual and one verbal indicator, including options like icons, "with AI" button text, animations, and text disclaimers.
@@ -21,10 +21,10 @@ last_updated: 2026-06-18
 
 These components are used to notify users when they are interacting with AI-related features. They also inform users that generated responses may contain inaccuracies and advise them not to provide personal information, as AI systems may retain data for future improvements.
 
-- Common UX practices suggest placing the icon before the disclosure helps users more easily notice and recognize the message.
+- Place the icon before the disclosure to help users notice and recognize the message.
 - Tooltips are not included in these messages.
 - The label and notification style may vary depending on the context in which the information appears.
-- Please [refer to the guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) for more details on notification messages.
+- [Refer to the guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) for more details on notification messages.
 
 ### Inline alerts
 
@@ -68,7 +68,7 @@ Use toast alerts for more prominent AI disclosures, such as when a feature is fi
 
 Some AI-assisted features may warrant more than an icon and text label. In these cases, a text notice can be placed at the beginning of an experience.
 
-- The text for this notice may vary or be tailored to the content.
+- You can tailor this text to the content.
 - For external-facing AI features, [refer to this guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) and work with your AIA Reviewers during the AIA review process.
 
 <ul data-type="examples">
@@ -109,7 +109,7 @@ Some AI-assisted features may warrant more than an icon and text label. In these
 
 ## Indicating AI-generated content
 
-AI-generated content, like a search results summary, must include a label and an icon indicating to the user that the content has been created using AI.
+AI-generated content, like a search results summary, must include a label and icon showing users the content was AI-generated.
 
 <figure data-type="do">
   <img src="../assets/images/search-results-label-sparkle-icon.png" alt="Example: AI-assisted results expandable section with the title indicating the use of AI both visually, with the sparkle icon, and verbally, by including &quot;AI-assisted&quot; in the results heading." title="do" width="871">
@@ -118,7 +118,7 @@ AI-generated content, like a search results summary, must include a label and an
 
 ## Indicating AI-generated images
 
-AI-generated images or ads should not be labeled individually.
+Don't label AI-generated images or ads individually.
 
 - Visually indicating each image would be distracting and could cause users to assume that entire images or pages are created without human influence, as seen in the responses to our AI sentiment survey.
 - Instead, Red Hat is working on a site-wide notice that will outline when users will (and won't) encounter AI-generated images on Red Hat web properties.
