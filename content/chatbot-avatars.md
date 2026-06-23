@@ -17,7 +17,7 @@ All chatbots should use the robot icon as their avatar or profile picture. Other
 - **Why this specific robot icon?** We revised the original robot design to be more expressive and better represent advanced AI features, based on a Qualtrics survey.
 
 <figure data-type="example">
-  <img src="../assets/images/chatbot-icons-standard-vs-ui.svg" alt="Our new robot icons: the larger Standard icon shown in red and the smaller UI icon shown in black" title="example" width="247">
+  <img src="../assets/images/chatbot-icons-standard-vs-ui.png" alt="Our new robot icons: the larger Standard icon shown in red and the smaller UI icon shown in black" title="example" width="402">
 </figure>
 
 ## Variations
@@ -120,7 +120,7 @@ When clicking a button results in opening a conversation with a chatbot, use the
 <ul data-type="dos-donts">
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-use-other-robot-images-as-chatbot-avatars.svg" alt="Crossed out avatar image using a different and unapproved robot image" title="dont" width="451">
+      <img src="../assets/images/do-not-use-other-robot-images-as-chatbot-avatars.png" alt="Crossed out avatar image using a different and unapproved robot image" title="dont" width="402">
       <figcaption>Don't use other icons or robots as chatbot avatars.</figcaption>
     </figure>
   </li>
@@ -138,7 +138,7 @@ When clicking a button results in opening a conversation with a chatbot, use the
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-change-styling-or-use-gradients.svg" alt="Crossed out robot avatar that has been recolored with a gradient" title="dont" width="443">
+      <img src="../assets/images/do-not-change-styling-or-use-gradients.png" alt="Crossed out robot avatar that has been recolored with a gradient" title="dont" width="402">
       <figcaption>Don't change the styling of launch buttons to use a gradient fill or border gradient.</figcaption>
     </figure>
   </li>
@@ -150,7 +150,7 @@ When clicking a button results in opening a conversation with a chatbot, use the
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-change-color-based-on-emotion.svg" alt="Crossed out robot avatars that have been recolored to express emotion—blue for happy and red for sad." title="dont" width="442">
+      <img src="../assets/images/do-not-change-color-based-on-emotion.png" alt="Crossed out robot avatars that have been recolored to express emotion—blue for happy and red for sad." title="dont" width="402">
       <figcaption>Don't change the color of the robot icon based on the "emotion" of the variation.</figcaption>
     </figure>
   </li>

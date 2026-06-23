@@ -158,37 +158,37 @@ Research shows users need both text and an icon for clarity.
 <ul data-type="dos-donts">
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-create-new-icons-with-sparkle.svg" alt="Crossed out folder icon with a sparkle" title="dont" width="416">
+      <img src="../assets/images/do-not-create-new-icons-with-sparkle.png" alt="Crossed out folder icon with a sparkle" title="dont" width="402">
       <figcaption>Don't create new UI icons with sparkles attached to them.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-use-brains-or-robots.svg" alt="Crossed out brain and robot icons" title="dont" width="402">
+      <img src="../assets/images/do-not-use-brains-or-robots.png" alt="Crossed out brain and robot icons" title="dont" width="402">
       <figcaption>Don't use brains or robots to represent AI features. The existing brain UI icon represents learning and education, and a robot icon should only be used for chatbot avatars.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-modify-or-change-colors-ui-icons.svg" alt="Crossed out AI troubleshooting and AI chat icons that have been re-colored" title="dont" width="403">
+      <img src="../assets/images/do-not-modify-or-change-colors-ui-icons.png" alt="Crossed out AI troubleshooting and AI chat icons that have been re-colored" title="dont" width="402">
       <figcaption>Don't edit the colors of UI icons. Use them in the same colors as other UI icons in the interface.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-use-icons-with-sparkle-without-ai-disclosure.svg" alt="Crossed out AI search button without disclosure" title="dont" width="401">
+      <img src="../assets/images/do-not-use-icons-with-sparkle-without-ai-disclosure.png" alt="Crossed out AI search button without disclosure" title="dont" width="402">
       <figcaption>Don't use UI icons with sparkles without including a disclosure about the use of AI.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-add-sparkle-to-tech-icon.svg" alt="Crossed out Red Hat OpenShift product/technology icon with sparkle" title="dont" width="405">
+      <img src="../assets/images/do-not-add-sparkle-to-tech-icon.png" alt="Crossed out Red Hat OpenShift product/technology icon with sparkle" title="dont" width="402">
       <figcaption>Don't add an AI sparkle to a technology icon.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-use-ai-sparkle-icon-for-new.svg" alt="Crossed out &quot;new&quot; tag/label element with sparkle icon" title="dont" width="403">
+      <img src="../assets/images/do-not-use-ai-sparkle-icon-for-new.png" alt="Crossed out &quot;new&quot; tag/label element with sparkle icon" title="dont" width="402">
       <figcaption>Don't use icons with the AI sparkle to indicate "new." Use <code>rh-ui-icon-new</code> instead.</figcaption>
     </figure>
   </li>
