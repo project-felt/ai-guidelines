@@ -1,10 +1,14 @@
 ---
 title: Legal requirements
+id: Legal requirements
+section: AI
+subsection: Guidelines
 description: Legal review requirements for AI-enabled features
 category: ai
 subcategory: guidelines
 tags: [ai, legal, compliance]
 order: 2
+sortValue: 2
 last_updated: 2026-05-29
 ---
 
