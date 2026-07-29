@@ -1,10 +1,14 @@
 ---
 title: Iconography
+id: Iconography
+section: AI
+subsection: Guidelines
 description: Guidelines for using AI-related icons, sparkles, and visual representations
 category: ai
 subcategory: guidelines
 tags: [ai, icons, sparkle, visual]
 order: 4
+sortValue: 4
 last_updated: 2026-06-23
 ---
 
