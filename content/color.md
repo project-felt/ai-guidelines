@@ -1,10 +1,14 @@
 ---
 title: Color
+id: Color
+section: AI
+subsection: Guidelines
 description: Color usage guidelines for AI-enabled features
 category: ai
 subcategory: guidelines
 tags: [ai, color, accessibility]
 order: 5
+sortValue: 5
 last_updated: 2026-06-23
 ---
 

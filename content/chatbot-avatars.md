@@ -1,10 +1,14 @@
 ---
 title: Chatbot avatars
+id: Chatbot avatars
+section: AI
+subsection: Guidelines
 description: Guidelines for chatbot avatar design, robot icons, and launch buttons
 category: ai
 subcategory: guidelines
 tags: [ai, chatbot, avatar, robot]
 order: 6
+sortValue: 6
 last_updated: 2026-06-23
 ---
 

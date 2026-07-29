@@ -1,10 +1,14 @@
 ---
 title: Transparency notices
+id: Transparency notices
+section: AI
+subsection: Guidelines
 description: Guidelines for communicating AI usage to users through visual and verbal indicators
 category: ai
 subcategory: guidelines
 tags: [ai, transparency, disclosure, notices]
 order: 3
+sortValue: 3
 last_updated: 2026-06-23
 ---
 

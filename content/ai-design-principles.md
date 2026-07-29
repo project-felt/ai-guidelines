@@ -1,10 +1,14 @@
 ---
 title: AI design principles
+id: AI design principles
+section: AI
+subsection: Guidelines
 description: Core principles for designing AI-enabled experiences at Red Hat
 category: ai
 subcategory: guidelines
 tags: [ai, design, principles]
 order: 1
+sortValue: 1
 last_updated: 2026-06-11
 ---
 
