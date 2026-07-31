@@ -22,8 +22,9 @@ Use the premade sparkle animation to add interest to AI indicators, including ic
 - For clarity, be sure that the AI sparkle is visible when the animation is at rest.
 - **Don't** create new animations.
 
-> [!NOTE]
-> To request a new animation, reach out in #help-brand on Slack.
+<blockquote data-admonition="note" class="ws-admonition ws-admonition-note">
+To request a new animation, reach out in #help-brand on Slack.
+</blockquote>
 
 ## Animation do's and don'ts
 

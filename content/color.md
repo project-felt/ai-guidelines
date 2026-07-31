@@ -26,8 +26,9 @@ Do not use gradients and color coding for AI features.
 - This avoids the additional accessibility and coding challenges associated with gradients.
 - This prevents confusion between hybrid style marketing materials and interface functionality.
 
-> [!TIP]
-> Learn more about how Red Hat uses color in the [Red Hat brand](https://brand.redhat.com), the [Red Hat Design System](https://ux.redhat.com), and [PatternFly](https://patternfly.org).
+<blockquote data-admonition="tip" class="ws-admonition ws-admonition-tip">
+Learn more about how Red Hat uses color in the <a href="https://brand.redhat.com">Red Hat brand</a>, the <a href="https://ux.redhat.com">Red Hat Design System</a>, and <a href="https://patternfly.org">PatternFly</a>.
+</blockquote>
 
 ## Color associations and statuses
 
@@ -50,19 +51,19 @@ Across Red Hat products, web experiences, and marketing materials, these common 
 <ul data-type="dos-donts">
   <li>
     <figure data-type="do">
-      <img src="../assets/images/do-use-same-colors-for-ai-as-rest-of-ui.png" alt="Example including &quot;Edit with AI&quot; and &quot;Ask Red Hat&quot; buttons and an AI filter icon button all matching the expected UI colors" title="do" width="408">
+      <img src="../assets/images/do-use-same-colors-for-ai-as-rest-of-ui.png" alt="Example including &quot;Edit with AI&quot; and &quot;Ask Red Hat&quot; buttons and an AI filter icon button all matching the expected UI colors" title="do" width="408" />
       <figcaption>Use the same colors for AI features as the rest of the interface.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-color-code-ai-or-vary-from-rest-of-ui.png" alt="Crossed out example UI, where the button components have been colored purple" title="dont" width="407">
+      <img src="../assets/images/do-not-color-code-ai-or-vary-from-rest-of-ui.png" alt="Crossed out example UI, where the button components have been colored purple" title="dont" width="407" />
       <figcaption>Don't color-code AI features or use colors that are different from the rest of the interface. This could create conflicts with established color associations and statuses.</figcaption>
     </figure>
   </li>
   <li>
     <figure data-type="dont">
-      <img src="../assets/images/do-not-use-gradients-for-ai.png" alt="Crossed out example UI, where the buttons have gradients" title="dont" width="406">
+      <img src="../assets/images/do-not-use-gradients-for-ai.png" alt="Crossed out example UI, where the buttons have gradients" title="dont" width="406" />
       <figcaption>Don't use gradients to indicate that something is or uses AI.</figcaption>
     </figure>
   </li>
