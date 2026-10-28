@@ -9,7 +9,7 @@ subcategory: guidelines
 tags: [ai, icons, sparkle, visual]
 order: 4
 sortValue: 4
-last_updated: 2026-06-23
+last_updated: 2026-10-28
 ---
 
 
@@ -122,7 +122,11 @@ Research shows users need both text and an icon for clarity.
 - **Example**: A card showing an AI-generated summary of dashboard data.
 - **Don't** create new AI icons.
 
-[Download them in Brand Portal](https://url.corp.redhat.com/brand-portal-ui-icons)
+> **Red Hat internal resources**
+>
+> The Brand Portal download links on this page are for Red Hat employees only. Sign in with your Red Hat account to open them.
+
+<a href="https://url.corp.redhat.com/brand-portal-ui-icons" aria-label="Download AI information icons in Brand Portal (Red Hat employees only · Sign-in required)">Download AI information icons in Brand Portal (Red Hat employees only · Sign-in required)</a>
 
 ## Action icons
 
@@ -138,7 +142,7 @@ Research shows users need both text and an icon for clarity.
 - **Example**: A button that will cause a pop-up to appear with AI-generated troubleshooting assistance.
 - **Don't** create new AI icons.
 
-[Download them in Brand Portal](https://url.corp.redhat.com/brand-portal-ui-icons)
+<a href="https://url.corp.redhat.com/brand-portal-ui-icons" aria-label="Download AI action icons in Brand Portal (Red Hat employees only · Sign-in required)">Download AI action icons in Brand Portal (Red Hat employees only · Sign-in required)</a>
 
 ## UI icon do's and don'ts
 
