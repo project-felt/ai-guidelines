@@ -76,7 +76,7 @@ Use toast alerts for more prominent AI disclosures, such as when a feature is fi
 Some AI-assisted features may warrant more than an icon and text label. In these cases, a text notice can be placed at the beginning of an experience.
 
 - You can tailor this text to the content.
-- Red Hat teams developing external-facing AI features can find Red Hat-specific notice language and examples in [Transparency notice guidance for external-facing AI features (Red Hat employees only · Sign-in required)](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features).
+- Red Hat teams developing external-facing AI features can find Red Hat-specific notice language and examples in [Transparency notice guidance for external-facing AI features](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features). (Red Hat employees only · Sign-in required)
 
 <ul data-type="examples">
   <li>
