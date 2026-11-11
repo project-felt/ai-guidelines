@@ -18,7 +18,7 @@ last_updated: 2026-10-26
 >
 > Some links on this page are for Red Hat employees only. Sign in with your Red Hat account to open them.
 
-User research shows that people want clear signs when an action involves AI. When in doubt, tell users more about AI features, not less. For the supporting research, see the [AI Sentiment Survey findings (Red Hat employees only · Sign-in required)](https://url.corp.redhat.com/ai-sentiment-survey).
+User research shows that people want clear signs when an action involves AI. When in doubt, tell users more about AI features, not less. For the supporting research, see the [AI Sentiment Survey findings](https://url.corp.redhat.com/ai-sentiment-survey). (Red Hat employees only · Sign-in required)
 
 - Don't rely on just one form of indicator for AI-enabled experiences.
 - At minimum use one visual and one verbal indicator, including options like icons, "with AI" button text, animations, and text disclaimers.
