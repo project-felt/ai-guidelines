@@ -31,7 +31,7 @@ These components are used to notify users when they are interacting with AI-rela
 - Place the icon before the disclosure to help users notice and recognize the message.
 - Tooltips are not included in these messages.
 - The label and notification style may vary depending on the context in which the information appears.
-- For Red Hat-specific notice language and examples, see [Transparency notice guidance for external-facing AI features (Red Hat employees only · Sign-in required)](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features).
+- For Red Hat-specific notice language and examples, see [Transparency notice guidance for external-facing AI features](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features). (Red Hat employees only · Sign-in required)
 
 ### Inline alerts
 
