@@ -97,7 +97,7 @@ Some AI-assisted features may warrant more than an icon and text label. In these
 
 - Include a notice at the beginning of an experience stating, at a minimum: "This feature uses AI technology. Do not include any personal information or other sensitive information in your input." (This notice is shown before a user interacts with the virtual assistant and before any content is generated.)
 - Include a persistent notice under the 'i' icon: "Always review AI-generated content prior to use." (This is a persistent notice associated with the input/output box.)
-- Red Hat teams building external-facing virtual assistants can consult [Transparency notice guidance for external-facing AI features (Red Hat employees only · Sign-in required)](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features).
+- Red Hat teams building external-facing virtual assistants can consult [Transparency notice guidance for external-facing AI features](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features). (Red Hat employees only · Sign-in required)
 
 <ul data-type="examples">
   <li>
