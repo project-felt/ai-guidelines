@@ -9,17 +9,20 @@ subcategory: guidelines
 tags: [ai, transparency, disclosure, notices]
 order: 3
 sortValue: 3
-last_updated: 2026-06-23
+last_updated: 2026-10-26
 ---
-
 
 ## It should always be clear when and how AI is being used
 
-[User research](https://url.corp.redhat.com/ai-sentiment-survey) has shown that users want to clearly see when an action that they will take involves AI. When in doubt, communicate more about AI features, not less.
+> **Red Hat internal resources**
+>
+> Some links on this page are for Red Hat employees only. Sign in with your Red Hat account to open them.
+
+User research shows that people want clear signs when an action involves AI. When in doubt, tell users more about AI features, not less. For the supporting research, see the [AI Sentiment Survey findings](https://url.corp.redhat.com/ai-sentiment-survey). (Red Hat employees only · Sign-in required)
 
 - Don't rely on just one form of indicator for AI-enabled experiences.
 - At minimum use one visual and one verbal indicator, including options like icons, "with AI" button text, animations, and text disclaimers.
-- Consider additional indicators for high-risk interactions. Consult with the AIA Reviewers during your AIA review process as needed.
+- Consider additional indicators when an AI feature handles sensitive information, influences important decisions, or can trigger actions with significant consequences.
 
 ## Transparency components for AI-related features
 
@@ -28,7 +31,7 @@ These components are used to notify users when they are interacting with AI-rela
 - Place the icon before the disclosure to help users notice and recognize the message.
 - Tooltips are not included in these messages.
 - The label and notification style may vary depending on the context in which the information appears.
-- [Refer to the guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) for more details on notification messages.
+- For Red Hat-specific notice language and examples, see [Transparency notice guidance for external-facing AI features](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features). (Red Hat employees only · Sign-in required)
 
 ### Inline alerts
 
@@ -73,7 +76,7 @@ Use toast alerts for more prominent AI disclosures, such as when a feature is fi
 Some AI-assisted features may warrant more than an icon and text label. In these cases, a text notice can be placed at the beginning of an experience.
 
 - You can tailor this text to the content.
-- For external-facing AI features, [refer to this guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features) and work with your AIA Reviewers during the AIA review process.
+- Red Hat teams developing external-facing AI features can find Red Hat-specific notice language and examples in [Transparency notice guidance for external-facing AI features](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features). (Red Hat employees only · Sign-in required)
 
 <ul data-type="examples">
   <li>
@@ -94,7 +97,7 @@ Some AI-assisted features may warrant more than an icon and text label. In these
 
 - Include a notice at the beginning of an experience stating, at a minimum: "This feature uses AI technology. Do not include any personal information or other sensitive information in your input." (This notice is shown before a user interacts with the virtual assistant and before any content is generated.)
 - Include a persistent notice under the 'i' icon: "Always review AI-generated content prior to use." (This is a persistent notice associated with the input/output box.)
-- For external-facing AI features, [refer to this guidance](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features).
+- Red Hat teams building external-facing virtual assistants can consult [Transparency notice guidance for external-facing AI features](https://url.corp.redhat.com/notices-external-facing-ai-enabled-features). (Red Hat employees only · Sign-in required)
 
 <ul data-type="examples">
   <li>
